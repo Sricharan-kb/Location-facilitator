@@ -1,0 +1,8 @@
+Flask
+scikit-learn
+numpy
+pandas
+pyarrow
+hdbscan
+google-generativeai
+python-dotenv 

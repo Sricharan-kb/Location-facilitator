@@ -1,0 +1,564 @@
+{
+  "spiral_clusters": [
+    {
+      "cluster": 0,
+      "polygon_count": 2,
+      "avg_suitability_score": 8.75,
+      "median_suitability_score": 8.75,
+      "min_suitability_score": 8.5,
+      "max_suitability_score": 9.0,
+      "std_suitability_score": 0.25,
+      "feature_analysis": {
+        "total_hhd_not_having_sanitary_la": {
+          "mean": 7.65,
+          "median": 7.65,
+          "std": 0.8500000000000001,
+          "min": 6.8,
+          "max": 8.5
+        },
+        "telephone_services": {
+          "mean": 9.8,
+          "median": 9.8,
+          "std": 0.0,
+          "min": 9.8,
+          "max": 9.8
+        },
+        "is_atm_available": {
+          "mean": 9.7,
+          "median": 9.7,
+          "std": 0.0,
+          "min": 9.7,
+          "max": 9.7
+        },
+        "total_hhd_having_piped_water_con": {
+          "mean": 7.699999999999999,
+          "median": 7.699999999999999,
+          "std": 0.49999999999999956,
+          "min": 7.2,
+          "max": 8.2
+        },
+        "is_village_connected_to_all_weat": {
+          "mean": 7.3,
+          "median": 7.3,
+          "std": 0.5,
+          "min": 6.8,
+          "max": 7.8
+        },
+        "is_bank_available": {
+          "mean": 9.100000000000001,
+          "median": 9.100000000000001,
+          "std": 0.20000000000000018,
+          "min": 8.9,
+          "max": 9.3
+        }
+      },
+      "geographic_info": {
+        "locations": [
+          "Pune",
+          "Bangalore"
+        ],
+        "coordinates": [
+          [
+            73.8567,
+            18.5204
+          ],
+          [
+            77.5946,
+            12.9716
+          ]
+        ],
+        "centroid": [
+          75.72565,
+          15.745999999999999
+        ]
+      }
+    },
+    {
+      "cluster": 1,
+      "polygon_count": 2,
+      "avg_suitability_score": 8.75,
+      "median_suitability_score": 8.75,
+      "min_suitability_score": 8.3,
+      "max_suitability_score": 9.2,
+      "std_suitability_score": 0.4499999999999993,
+      "feature_analysis": {
+        "total_hhd_not_having_sanitary_la": {
+          "mean": 7.199999999999999,
+          "median": 7.199999999999999,
+          "std": 0.9999999999999996,
+          "min": 6.2,
+          "max": 8.2
+        },
+        "telephone_services": {
+          "mean": 9.65,
+          "median": 9.65,
+          "std": 0.25,
+          "min": 9.4,
+          "max": 9.9
+        },
+        "is_atm_available": {
+          "mean": 9.55,
+          "median": 9.55,
+          "std": 0.25,
+          "min": 9.3,
+          "max": 9.8
+        },
+        "total_hhd_having_piped_water_con": {
+          "mean": 8.0,
+          "median": 8.0,
+          "std": 0.5,
+          "min": 7.5,
+          "max": 8.5
+        },
+        "is_village_connected_to_all_weat": {
+          "mean": 7.6499999999999995,
+          "median": 7.6499999999999995,
+          "std": 0.5499999999999998,
+          "min": 7.1,
+          "max": 8.2
+        },
+        "is_bank_available": {
+          "mean": 9.2,
+          "median": 9.2,
+          "std": 0.2999999999999998,
+          "min": 8.9,
+          "max": 9.5
+        }
+      },
+      "geographic_info": {
+        "locations": [
+          "Mumbai",
+          "Ahmedabad"
+        ],
+        "coordinates": [
+          [
+            72.8777,
+            19.076
+          ],
+          [
+            72.5714,
+            23.0225
+          ]
+        ],
+        "centroid": [
+          72.72455,
+          21.04925
+        ]
+      }
+    },
+    {
+      "cluster": 2,
+      "polygon_count": 2,
+      "avg_suitability_score": 8.15,
+      "median_suitability_score": 8.15,
+      "min_suitability_score": 7.5,
+      "max_suitability_score": 8.8,
+      "std_suitability_score": 0.6500000000000004,
+      "feature_analysis": {
+        "total_hhd_not_having_sanitary_la": {
+          "mean": 8.35,
+          "median": 8.35,
+          "std": 0.5500000000000003,
+          "min": 7.8,
+          "max": 8.9
+        },
+        "telephone_services": {
+          "mean": 9.5,
+          "median": 9.5,
+          "std": 0.1999999999999993,
+          "min": 9.3,
+          "max": 9.7
+        },
+        "is_atm_available": {
+          "mean": 9.399999999999999,
+          "median": 9.399999999999999,
+          "std": 0.20000000000000018,
+          "min": 9.2,
+          "max": 9.6
+        },
+        "total_hhd_having_piped_water_con": {
+          "mean": 7.449999999999999,
+          "median": 7.449999999999999,
+          "std": 0.6499999999999999,
+          "min": 6.8,
+          "max": 8.1
+        },
+        "is_village_connected_to_all_weat": {
+          "mean": 7.2,
+          "median": 7.2,
+          "std": 0.7000000000000002,
+          "min": 6.5,
+          "max": 7.9
+        },
+        "is_bank_available": {
+          "mean": 8.85,
+          "median": 8.85,
+          "std": 0.34999999999999964,
+          "min": 8.5,
+          "max": 9.2
+        }
+      },
+      "geographic_info": {
+        "locations": [
+          "Delhi",
+          "Jaipur"
+        ],
+        "coordinates": [
+          [
+            77.209,
+            28.6139
+          ],
+          [
+            75.7873,
+            26.9124
+          ]
+        ],
+        "centroid": [
+          76.49815000000001,
+          27.763150000000003
+        ]
+      }
+    }
+  ],
+  "spiral_insights": {
+    "spiral_summary": {
+      "total_clusters": 3,
+      "total_polygons": 6,
+      "avg_cluster_size": 2.0,
+      "cluster_size_distribution": [
+        2,
+        2,
+        2
+      ]
+    },
+    "geographic_analysis": {
+      "directional_clusters": {
+        "Cluster_0": {
+          "direction": "North",
+          "size": 2,
+          "avg_score": 8.75
+        },
+        "Cluster_1": {
+          "direction": "Northeast",
+          "size": 2,
+          "avg_score": 8.75
+        },
+        "Cluster_2": {
+          "direction": "East",
+          "size": 2,
+          "avg_score": 8.15
+        }
+      },
+      "spatial_distribution": {
+        "score_distribution": {
+          "mean": 8.549999999999999,
+          "std": 0.28284271247461884,
+          "min": 8.15,
+          "max": 8.75
+        },
+        "size_distribution": {
+          "mean": 2.0,
+          "std": 0.0,
+          "min": 2,
+          "max": 2
+        }
+      }
+    },
+    "feature_analysis": {
+      "feature_importance": {
+        "total_hhd_not_having_sanitary_la": {
+          "mean": 7.733333333333333,
+          "std": 0.4731689855526131,
+          "variation_coefficient": 0.06118564468352756
+        },
+        "telephone_services": {
+          "mean": 9.65,
+          "std": 0.12247448713915919,
+          "variation_coefficient": 0.012691656698358466
+        },
+        "is_atm_available": {
+          "mean": 9.549999999999999,
+          "std": 0.12247448713915919,
+          "variation_coefficient": 0.01282455362713709
+        },
+        "total_hhd_having_piped_water_con": {
+          "mean": 7.716666666666666,
+          "std": 0.22484562605386765,
+          "variation_coefficient": 0.029137662123611362
+        },
+        "is_village_connected_to_all_weat": {
+          "mean": 7.383333333333333,
+          "std": 0.19293061504650347,
+          "variation_coefficient": 0.026130557342641556
+        },
+        "is_bank_available": {
+          "mean": 9.049999999999999,
+          "std": 0.14719601443879754,
+          "variation_coefficient": 0.016264752976662713
+        }
+      },
+      "cluster_differentiation": {
+        "total_hhd_not_having_sanitary_la": {
+          "differentiation_score": 0.06118564468352756,
+          "cluster_values": [
+            7.65,
+            7.199999999999999,
+            8.35
+          ]
+        },
+        "telephone_services": {
+          "differentiation_score": 0.012691656698358466,
+          "cluster_values": [
+            9.8,
+            9.65,
+            9.5
+          ]
+        },
+        "is_atm_available": {
+          "differentiation_score": 0.01282455362713709,
+          "cluster_values": [
+            9.7,
+            9.55,
+            9.399999999999999
+          ]
+        },
+        "total_hhd_having_piped_water_con": {
+          "differentiation_score": 0.029137662123611362,
+          "cluster_values": [
+            7.699999999999999,
+            8.0,
+            7.449999999999999
+          ]
+        },
+        "is_village_connected_to_all_weat": {
+          "differentiation_score": 0.026130557342641556,
+          "cluster_values": [
+            7.3,
+            7.6499999999999995,
+            7.2
+          ]
+        },
+        "is_bank_available": {
+          "differentiation_score": 0.016264752976662713,
+          "cluster_values": [
+            9.100000000000001,
+            9.2,
+            8.85
+          ]
+        }
+      }
+    },
+    "business_insights": {
+      "market_segments": [
+        {
+          "cluster_id": 0,
+          "segment_type": "High-Potential Small",
+          "size": 2,
+          "avg_score": 8.75,
+          "characteristics": {
+            "locations": [
+              "Pune",
+              "Bangalore"
+            ],
+            "feature_profile": {
+              "total_hhd_not_having_sanitary_la": {
+                "mean": 7.65,
+                "median": 7.65,
+                "std": 0.8500000000000001,
+                "min": 6.8,
+                "max": 8.5
+              },
+              "telephone_services": {
+                "mean": 9.8,
+                "median": 9.8,
+                "std": 0.0,
+                "min": 9.8,
+                "max": 9.8
+              },
+              "is_atm_available": {
+                "mean": 9.7,
+                "median": 9.7,
+                "std": 0.0,
+                "min": 9.7,
+                "max": 9.7
+              },
+              "total_hhd_having_piped_water_con": {
+                "mean": 7.699999999999999,
+                "median": 7.699999999999999,
+                "std": 0.49999999999999956,
+                "min": 7.2,
+                "max": 8.2
+              },
+              "is_village_connected_to_all_weat": {
+                "mean": 7.3,
+                "median": 7.3,
+                "std": 0.5,
+                "min": 6.8,
+                "max": 7.8
+              },
+              "is_bank_available": {
+                "mean": 9.100000000000001,
+                "median": 9.100000000000001,
+                "std": 0.20000000000000018,
+                "min": 8.9,
+                "max": 9.3
+              }
+            }
+          }
+        },
+        {
+          "cluster_id": 1,
+          "segment_type": "High-Potential Small",
+          "size": 2,
+          "avg_score": 8.75,
+          "characteristics": {
+            "locations": [
+              "Mumbai",
+              "Ahmedabad"
+            ],
+            "feature_profile": {
+              "total_hhd_not_having_sanitary_la": {
+                "mean": 7.199999999999999,
+                "median": 7.199999999999999,
+                "std": 0.9999999999999996,
+                "min": 6.2,
+                "max": 8.2
+              },
+              "telephone_services": {
+                "mean": 9.65,
+                "median": 9.65,
+                "std": 0.25,
+                "min": 9.4,
+                "max": 9.9
+              },
+              "is_atm_available": {
+                "mean": 9.55,
+                "median": 9.55,
+                "std": 0.25,
+                "min": 9.3,
+                "max": 9.8
+              },
+              "total_hhd_having_piped_water_con": {
+                "mean": 8.0,
+                "median": 8.0,
+                "std": 0.5,
+                "min": 7.5,
+                "max": 8.5
+              },
+              "is_village_connected_to_all_weat": {
+                "mean": 7.6499999999999995,
+                "median": 7.6499999999999995,
+                "std": 0.5499999999999998,
+                "min": 7.1,
+                "max": 8.2
+              },
+              "is_bank_available": {
+                "mean": 9.2,
+                "median": 9.2,
+                "std": 0.2999999999999998,
+                "min": 8.9,
+                "max": 9.5
+              }
+            }
+          }
+        },
+        {
+          "cluster_id": 2,
+          "segment_type": "High-Potential Small",
+          "size": 2,
+          "avg_score": 8.15,
+          "characteristics": {
+            "locations": [
+              "Delhi",
+              "Jaipur"
+            ],
+            "feature_profile": {
+              "total_hhd_not_having_sanitary_la": {
+                "mean": 8.35,
+                "median": 8.35,
+                "std": 0.5500000000000003,
+                "min": 7.8,
+                "max": 8.9
+              },
+              "telephone_services": {
+                "mean": 9.5,
+                "median": 9.5,
+                "std": 0.1999999999999993,
+                "min": 9.3,
+                "max": 9.7
+              },
+              "is_atm_available": {
+                "mean": 9.399999999999999,
+                "median": 9.399999999999999,
+                "std": 0.20000000000000018,
+                "min": 9.2,
+                "max": 9.6
+              },
+              "total_hhd_having_piped_water_con": {
+                "mean": 7.449999999999999,
+                "median": 7.449999999999999,
+                "std": 0.6499999999999999,
+                "min": 6.8,
+                "max": 8.1
+              },
+              "is_village_connected_to_all_weat": {
+                "mean": 7.2,
+                "median": 7.2,
+                "std": 0.7000000000000002,
+                "min": 6.5,
+                "max": 7.9
+              },
+              "is_bank_available": {
+                "mean": 8.85,
+                "median": 8.85,
+                "std": 0.34999999999999964,
+                "min": 8.5,
+                "max": 9.2
+              }
+            }
+          }
+        }
+      ],
+      "expansion_opportunities": [
+        {
+          "cluster_id": 0,
+          "opportunity_type": "Market Expansion",
+          "priority": "High",
+          "rationale": "High suitability score (8.75) with 2 locations",
+          "recommended_action": "Immediate expansion planning"
+        },
+        {
+          "cluster_id": 1,
+          "opportunity_type": "Market Expansion",
+          "priority": "High",
+          "rationale": "High suitability score (8.75) with 2 locations",
+          "recommended_action": "Immediate expansion planning"
+        },
+        {
+          "cluster_id": 2,
+          "opportunity_type": "Market Expansion",
+          "priority": "High",
+          "rationale": "High suitability score (8.15) with 2 locations",
+          "recommended_action": "Immediate expansion planning"
+        }
+      ],
+      "risk_factors": []
+    }
+  },
+  "spiral_labels": [
+    0,
+    1,
+    2,
+    -1,
+    -1,
+    0,
+    2,
+    1
+  ],
+  "spiral_config": {
+    "radius": 0.15,
+    "spacing": 1.2353140677134793,
+    "min_points": 2
+  },
+  "analysis_timestamp": "2025-07-30T18:20:03.612742"
+}
