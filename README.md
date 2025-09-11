@@ -1,11 +1,11 @@
-Geo-Suitability: AI-Powered Location Optimization
-Overview
+**Geo-Suitability: AI-Powered Location Optimization**
+**Overview**
 
 In today’s competitive market, choosing the right location can make or break a product launch. Geo-Suitability is an innovative, AI-driven application that helps businesses, governments, and organizations identify optimal sites for facilities, services, or product rollouts.
 
 The platform goes beyond traditional market analysis by integrating spatial data, clustering algorithms, and artificial intelligence to deliver actionable, data-backed insights for strategic decision-making and market penetration.
 
-Core Features
+**Core Features**
 
 Data Upload & Definition → Users can upload proprietary datasets and enrich them with product-specific details.
 
@@ -19,7 +19,7 @@ What-If Scenarios → Simulate future market or environmental changes and assess
 
 Business-Oriented Insights → Generate clear, accessible reports without technical jargon — tailored for decision-makers.
 
-How It Works (High-Level)
+**How It Works?**
 
 Input Data → Upload datasets or pull from online maps and population sources.
 
@@ -31,7 +31,7 @@ Visualize & Explore → Use interactive maps and dashboards to interpret results
 
 Simulate & Refine → Run “What-If” scenarios to prepare for market shifts.
 
-Who Can Use This?
+**Who Can Use This?**
 
 Businesses → Select warehouse, retail, or EV charging station locations.
 
@@ -39,7 +39,7 @@ Governments → Plan hospitals, schools, or public infrastructure.
 
 Startups & Analysts → Launch products with maximum reach and impact.
 
-Why Geo-Suitability?
+**Why Geo-Suitability?**
 
 Data-Driven → Integrates spatial + business data for robust insights.
 
@@ -49,7 +49,7 @@ Scalable → Works for local studies or nationwide rollouts.
 
 User-Centric → Designed for decision-makers, not just data scientists.
 
-Deliverables
+**Deliverables**
 
 Interactive Maps & Dashboards
 
