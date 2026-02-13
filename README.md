@@ -45,18 +45,18 @@ It combines geospatial analytics, clustering algorithms, and weighted scoring to
 ```bash
 git clone https://github.com/yourusername/Location-facilitator.git
 cd Location-facilitator
-
+```
+## 2. Backend
+```bash
 cd backend
-python -m venv venv
-
-source venv/bin/activate
-
-venv\Scripts\activate
-
 pip install -r requirements.txt
 python cluster_api.py
-
+```
+## 3. Frontend
+```bash
 cd frontend
 npm install
 npm run dev
+```
+
 
