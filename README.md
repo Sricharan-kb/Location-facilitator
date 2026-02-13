@@ -1,58 +1,62 @@
-**Geo-Suitability: AI-Powered Location Optimization**
-**Overview**
+# 🌍 Geo-Suitability 
 
-In today’s competitive market, choosing the right location can make or break a product launch. Geo-Suitability is an innovative, AI-driven application that helps businesses, governments, and organizations identify optimal sites for facilities, services, or product rollouts.
+Geo-Suitability is a platform for AI-driven location optimization.  
+It combines geospatial analytics, clustering algorithms, and weighted scoring to identify suitable locations for facilities, services, or product launches.
 
-The platform goes beyond traditional market analysis by integrating spatial data, clustering algorithms, and artificial intelligence to deliver actionable, data-backed insights for strategic decision-making and market penetration.
+---
 
-**Core Features**
+## 🚀 Features
 
-Data Upload & Definition → Users can upload proprietary datasets and enrich them with product-specific details.
+- Upload and analyze spatial datasets  
+- Feature selection with weighted scoring  
+- Clustering (KMeans, DBSCAN, HDBSCAN, Buffer Analysis)  
+- Interactive map visualization  
+- Scenario-based re-scoring  
+- AI-generated insights (Google Gemini)  
+- Export results (CSV / GeoJSON)
 
-Feature Selection & Weighting → Dynamically select and assign weightages to factors that matter most (e.g., demographics, traffic, land use).
+---
 
-AI-Powered Scoring & Clustering → Apply advanced clustering methods (K-Means, DBSCAN, Buffer Analysis, etc.) to group and rank potential locations.
+## 🏗️ Tech Stack
 
-Interactive Analysis → Visualize results on an intuitive map interface with zoom and detail retrieval.
+**Frontend**
+- React (Vite)
+- Leaflet
+- Tailwind CSS
 
-What-If Scenarios → Simulate future market or environmental changes and assess their impact on location suitability.
+**Backend**
+- Flask (Python)
+- Express (Node.js)
 
-Business-Oriented Insights → Generate clear, accessible reports without technical jargon — tailored for decision-makers.
+**AI / ML**
+- scikit-learn
+- HDBSCAN
+- Google Gemini API
 
-**How It Works?**
+**Database (Optional)**
+- MongoDB
 
-Input Data → Upload datasets or pull from online maps and population sources.
+---
 
-Process & Analyze → Normalize data, apply weights, run clustering algorithms.
+## ⚡ Quick Start
 
-Optimize & Rank → Score clusters based on suitability for the product or facility.
+### 1. Clone the Repository
 
-Visualize & Explore → Use interactive maps and dashboards to interpret results.
+```bash
+git clone https://github.com/yourusername/Location-facilitator.git
+cd Location-facilitator
 
-Simulate & Refine → Run “What-If” scenarios to prepare for market shifts.
+cd backend
+python -m venv venv
 
-**Who Can Use This?**
+source venv/bin/activate
 
-Businesses → Select warehouse, retail, or EV charging station locations.
+venv\Scripts\activate
 
-Governments → Plan hospitals, schools, or public infrastructure.
+pip install -r requirements.txt
+python cluster_api.py
 
-Startups & Analysts → Launch products with maximum reach and impact.
+cd frontend
+npm install
+npm run dev
 
-**Why Geo-Suitability?**
-
-Data-Driven → Integrates spatial + business data for robust insights.
-
-AI-Powered → Removes guesswork by leveraging clustering and predictive modeling.
-
-Scalable → Works for local studies or nationwide rollouts.
-
-User-Centric → Designed for decision-makers, not just data scientists.
-
-**Deliverables**
-
-Interactive Maps & Dashboards
-
-Suitability Rankings & Reports (Excel, PDF, GeoJSON)
-
-Scenario-Based Insights for forward-looking strategies
