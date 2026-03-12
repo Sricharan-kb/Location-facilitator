@@ -1,0 +1,11 @@
+Flask
+flask-cors
+scikit-learn
+numpy
+pandas
+pyarrow
+hdbscan
+google-generativeai
+python-dotenv
+pydantic
+gunicorn 
